@@ -5,8 +5,7 @@ Auto-detects common fields (email/username + password/pass/pwd), saves hits in t
 
 **Currently tuned for:** https://auth-kris.vercel.app/login (redirects to /dashboard on success)
 
-![K-SEC Banner](https://via.placeholder.com/728x90/000000/FF0000?text=K-SEC+BRUTEFORCER)  
-*(replace with real screenshot or ASCII render if you want)*
+
 
 ## Features
 - Only asks for combo file path (full path or relative)
